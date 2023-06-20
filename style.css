@@ -1,0 +1,19 @@
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#recordsTable th {
+    text-align: center;
+}
+
+#recordsTable td.actions {
+    text-align: center;
+}
+#recordsTable td.actions {
+    text-align: center;
+}
